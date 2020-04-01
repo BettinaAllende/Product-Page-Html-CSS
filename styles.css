@@ -6,19 +6,19 @@
     border-bottom: 4px lightgrey;
     font-family: Verdana; 
 }
-/* li{
+li{
     display: inline;
-    } */
+    }
 .sub-menu{
     background-color: ivory;
     margin: 0;
 
 }
-/* li a{
+li a{
     text-decoration: none;
     font-family: Verdana; 
     color: grey;
-} */
+}
 
 .content {display: flex;
     justify-content: space-between;
